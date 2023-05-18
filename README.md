@@ -1,4 +1,4 @@
-An attempt to edit the below source code from a linux platform to a windows platform. (WIP), No Guarantee of functionality.
+An attempt to edit the below source code from a linux platform to platform agnostic. (WIP), No Guarantee of functionality.
 
 All credits to GammaGames
 
